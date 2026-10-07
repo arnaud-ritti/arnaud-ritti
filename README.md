@@ -50,11 +50,17 @@ Freelance as **[ArKoder](https://arkoder.dev)** since 2013. I design, build and 
 
 ### 🚀 Products
 
-| | Product | What it does |
-|:-:|---|---|
-| 🔎 | **[Soap](https://soap.arkoder.dev)** | Technical SEO audit platform: crawl, Core Web Vitals, AI-prioritised recommendations, plus an **MCP server** to query audits from any LLM client |
-| 🌀 | **[Skrüm](https://github.com/arnaud-ritti/skrum)** | Open-source, self-hosted retros, planning poker, whiteboards and surveys for agile teams. Laravel + Inertia (React, shadcn/ui) |
-| 👶 | **[Baby Bob](https://baby-bob.com)** | Family baby & pregnancy tracker: feeds, sleep, diapers, growth, synced across devices |
+| | Product | What it does | Stack |
+|:-:|---|---|---|
+| 📋 | **[Skrüm](https://arkoder.dev/projets/skrum/)** | Open-source, self-hosted team rituals: retros, planning poker, whiteboard, icebreakers, surveys. Every decision becomes a tracked action | Laravel · React · Reverb · Docker |
+| 🔗 | **[Chaînade](https://arkoder.dev/projets/chainade/)** | Pairs people who share the same daily route on foot, bike, scooter or transit. No profiles, no ads, hosted in France | Laravel · Livewire · Tailwind |
+| 🕹️ | **[Vimo Quest](https://arkoder.dev/projets/vimo-quest/)** | Fitness app where real workouts level up a retro pixel-pet. Daily quests, Apple Health / Health Connect, GPS, weekly leagues | Expo · React Native |
+| 🍼 | **[Baby Bob](https://arkoder.dev/projets/baby-bob/)** | From pregnancy to newborn: feeds, sleep, diapers, WHO growth curves, AI assistant, shared lists, works offline | Laravel · React · Inertia |
+| 🫧 | **[Soap](https://arkoder.dev/projets/soap/)** | Continuous technical SEO audits + cookieless analytics: 58 checks per page, AI recommendations, MCP server | Laravel · Astro · MCP |
+| 🏠 | **[Voisya](https://arkoder.dev/projets/voisya/)** | All-in-one co-ownership & rental management: units, leases, general assemblies, charges, shared documents | Laravel · Vue · Tailwind |
+| ⚡ | **[Pulses.cloud](https://arkoder.dev/projets/pluses_cloud/)** | Pusher & Laravel Echo-compatible WebSocket platform with unlimited realtime messaging | Laravel · WebSocket · Fly.io |
+
+<sub>More client work under NDA, see <a href="https://arkoder.dev/projets/">arkoder.dev/projets</a>.</sub>
 
 ---
 
